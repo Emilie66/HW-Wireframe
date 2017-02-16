@@ -1,0 +1,127 @@
+
+* {
+}
+
+.Container {
+	background-color: #777;;
+	padding-right: 15%;
+	padding-left: 10%;
+	border-left: 10%;
+	border-right: 13.5%;
+	margin-left: 10%;
+	margin-right: 13.5%;
+	border-color: #777;
+	
+}
+
+.Header {
+	width: 76%;
+	Margin-left: 10%;
+	Margin-right: 13.5%;
+	height: 50px;
+	border-style: solid;
+	border-color: #ebebeb;
+	border-width: 5px;
+	font-family: arial;
+	font-size: 18px;
+	text-align: center;
+	color: #777;
+}
+
+.Nav {
+	width: 76%;
+	height: 50px;
+	Margin-left: 10%;
+	Margin-right: 13.5%;
+	border-style: solid;
+	border-color: #ebebeb;
+	border-width: 5px;
+	font-family: arial;
+	font-size: 18px;
+	text-align: center;
+	color: #777;
+}
+
+.Aside {
+	width: 33%;
+	height: 160px;
+	float: right;
+	margin-right: 13.5%;
+	border-style: solid;
+	border-color: #ebebeb;
+	border-width: 5px;
+	font-family: arial;
+	font-size: 18px;
+	text-align: center;
+	color: #777;
+}
+
+.Section {
+	float: left;
+	margin-left: 10%;
+	width: 42%;
+	height: 160px;
+	border-style: solid;
+	border-color: #ebebeb;
+	border-width: 5px;
+	font-family: arial;
+	font-size: 18px;
+	text-align: center;
+	color: #777
+}
+
+.Article {
+	margin-left: 10%;
+	width: 80%;
+	height: 100px;
+	border-style: solid;
+	border-color: #ebebeb;
+	border-width: 5px;
+	font-family: arial;
+	font-size: 18px;
+	text-align: center;
+	color: #ebebeb;
+	position: relative;
+	background-color: #777;
+}
+
+.Headers {
+	width: 92%;
+	margin-left: 3%;
+	position: relative;
+	border-style: solid;
+	border-color: #777;
+	border-width: 5px;
+	font-family: arial;
+	font-size: 18px;
+	text-align: center;
+	color: #777;
+	background-color: #ebebeb;
+}
+
+.Paragraph {
+	width: 92%;
+	margin-left: 3%;
+	border-style: solid;
+	border-color: #777;
+	border-width: 5px;
+	font-family: arial;
+	font-size: 18px;
+	text-align: center;
+	color: #777;
+	background-color: #ebebeb;
+}
+
+
+.Footer {
+	width: 76%;
+	Margin-left: 10%;
+	Margin-right: 13.5%;
+	border-style: solid;
+	border-color: #ebebeb;
+	border-width: 5px;
+	font-family: arial;
+	font-size: 18px;
+	text-align: center;
+	color: #777;
+}
